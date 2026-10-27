@@ -1,0 +1,6 @@
+backend/fdr.db
+backend/uploads/
+__pycache__/
+.venv/
+.env
+.vercel

@@ -1,0 +1,6 @@
+.venv
+tests
+backend/tests
+backend/fdr.db
+backend/uploads
+__pycache__
